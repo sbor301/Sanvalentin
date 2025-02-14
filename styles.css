@@ -7,7 +7,7 @@
     background-color: #ffe6e6;
     text-align: center;
     font-family: Arial, sans-serif;
-    background-image: url("/corazonpri.gif");
+    background-image: url("corazonpri.gif");
 }
 
 .body2 {
@@ -19,7 +19,7 @@
     
     text-align: center;
     font-family: Arial, sans-serif;
-    background-image: url("/corazones.gif") ;
+    background-image: url("corazones.gif") ;
 }
 
 
